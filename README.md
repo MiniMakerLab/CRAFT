@@ -1,2 +1,2 @@
 # CRAFT
-Repositório de modos de montagem do CRAFT
+Repositório de exemplos de montagem utilizando o MML CRAFT
